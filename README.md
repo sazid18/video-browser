@@ -1,4 +1,6 @@
-# video-browser
+# video-browser (Learner Project)
+ 
+### used youtube api to get list of videos based on search
 
 ## Project setup
 ```
